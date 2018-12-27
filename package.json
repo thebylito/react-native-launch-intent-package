@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-launch-intent-package",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/gy-chen/react-native-launch-intent-package",
   "main": "index.js",
@@ -18,6 +17,6 @@
   "author": "GyChen",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.44.2"
+    "react-native": "^0.57.8"
   }
 }
